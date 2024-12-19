@@ -40,7 +40,7 @@ Utilizo esta ferramenta para prototipar telas e criar designs intuitivos para ap
 
 📫 **E-mail**:   
 🔗 **LinkedIn**: [linkedin.com/in/iran-santana](https://linkedin.com)  
-🐙 **GitHub**: [github.com/IranSantana]([https://github.com](https://github.com/CodeByIran))  
+🐙 **GitHub**: [github.com(https://github.com/CodeByIran))  
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href=" " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
