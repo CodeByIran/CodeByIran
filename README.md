@@ -39,7 +39,7 @@ Utilizo esta ferramenta para prototipar telas e criar designs intuitivos para ap
 ## Como me encontrar
 
 📫 **E-mail**:   
-🔗 **LinkedIn**: [linkedin.com/in/iran-santana](https://linkedin.com)  
+🔗 **LinkedIn**: [linkedin.com/in/irandev](https://linkedin.com)  
 🐙 **GitHub**: https://github.com/CodeByIran
 <div> 
   <a href=" insta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
