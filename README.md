@@ -12,9 +12,9 @@ Também sou atleta de Jiu-Jitsu 🥋 e acredito no equilíbrio entre mente e cor
 
 ## Projetos em destaque
 
-🚀 Gerador de Questões usando llm
+🚀 Gerador de Questões usando llm.
 
-🤖 
+🤖 Desenvolvimento FullStack de Barbearia.
 
 ## O que estou aprendendo no momento
 
